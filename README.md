@@ -5,3 +5,11 @@ Note 1: The files with .p suffix are encrypted code that you can use comfortably
 
 Note 2: When my paper is accepted by the journal, all unencrypted versions will be released, so stay tuned.
 
+
+
+
+
+
+If you have any questions, please do not hesitate to contact me on my WeChat public platform. Here is the QR code for my WeChat public platform.
+
+https://space.bilibili.com/216803355?spm_id_from=333.788.0.0
