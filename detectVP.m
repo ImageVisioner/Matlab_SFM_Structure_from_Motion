@@ -1,4 +1,4 @@
-%%函数：获取消隐点坐标,实质是找无穷远平面
+%%函数：获取 消隐点坐标,实质是找无穷远平面
 
 function [vps] = detectVP(img_rgb)
 img_gray = rgb2gray(img_rgb);
