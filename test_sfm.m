@@ -14,7 +14,8 @@ clc
 addpath('F:\sfm-basic-process-master\algorithms');
 
 %读取图片并提取特征点和特征描述子
-images = imread("F:\sfm-basic-process-master\images\B22.jpg")
+images = imread("F:\sfm-basic-process-master\images\B22.jpg");
+
 [descriptors,points] = getPointFeatures(images);
 
 % 由第一幅图自标定相机内参K（注：假设所有图片的内参数一致）
