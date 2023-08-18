@@ -18,4 +18,4 @@ for i =1:im_count
     point = detectSURFFeatures(image);
     [descriptors{i},points{i}] = extractFeatures(image,point);
 end
-end
+en
